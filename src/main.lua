@@ -1,1 +1,3 @@
-print("Hello, world!")
+local module = require("module")
+
+module.epic_moment()
